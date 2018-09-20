@@ -338,23 +338,14 @@
       <id>kotlin-eap</id>
       <url>https://dl.bintray.com/kotlin/kotlin-eap</url>
     </repository>
-  </repositories>
-
-  <repositories>
     <repository>
       <id>kotlinx</id>
       <url>https://kotlin.bintray.com/kotlinx</url>
     </repository>
-  </repositories>
-
-  <repositories>
     <repository>
       <id>kotlinx2</id>
       <url>https://kotlin.bintray.com/kotlin/kotlinx</url>
     </repository>
-  </repositories>
-
-  <repositories>
     <repository>
       <id>kotlin-dev</id>
       <url>http://dl.bintray.com/kotlin/kotlin-dev</url>
@@ -366,26 +357,20 @@
       <id>kotlin-eap</id>
       <url>https://dl.bintray.com/kotlin/kotlin-eap</url>
     </pluginRepository>
-  </pluginRepositories>
 
-  <pluginRepositories>
     <pluginRepository>
       <id>kotlinx</id>
       <url>https://kotlin.bintray.com/kotlinx</url>
     </pluginRepository>
-  </pluginRepositories>
-
-  <pluginRepositories>
     <pluginRepository>
       <id>kotlinx2</id>
       <url>https://kotlin.bintray.com/kotlin/kotlinx</url>
     </pluginRepository>
-  </pluginRepositories>
-
-  <pluginRepositories>
     <pluginRepository>
       <id>kotlin-dev</id>
       <url>http://dl.bintray.com/kotlin/kotlin-dev</url>
     </pluginRepository>
   </pluginRepositories>
+
+
 </project>
